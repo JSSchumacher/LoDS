@@ -1,0 +1,9 @@
+{
+    "name": "lods",
+    "version": "v0.0.0-2024.01.23-alpha",
+    "description": "LoDS - Locally online DS for online local multiplayer on the nds",
+    "author": {
+    "name": "Joshua Schumacher",
+    "email": "contact@joshuaschumacher.com",
+    "url": "https://joshuaschumacher.com" }
+}

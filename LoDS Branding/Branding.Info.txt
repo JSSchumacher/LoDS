@@ -1,0 +1,7 @@
+Fonts:
+1. "L": Bank Gothic Regular (Bold)
+
+Colors:
+1. Letters: #
+2. Lower square: #
+3. Background: #FFFFF (White)
