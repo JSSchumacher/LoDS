@@ -1,5 +1,5 @@
 <p align="center" href="https://github.com/JSSchumacher/joshuaschumacher.com">
-  <img width="300" src="https://github.com/JSSchumacher/LoDS/blob/main/LoDS%20Branding/LoDS%20Logo%203x1%20(Centered).png?raw=true" />
+  <img width="300" src="https://github.com/JSSchumacher/LoDS/blob/main/LoDS%20Branding/LoDS%20Logo%203x1%20(Centered)%20round%20200px.png?raw=true" />
 </p>
 
 <p align="center">

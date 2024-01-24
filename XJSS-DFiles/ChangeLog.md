@@ -12,6 +12,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Planed Items
 
 
+# [v0.0.6-2024.01.24-alpha] - 2024-01-24
+## Notes: Just added more images
+### Added
+- Added rounded images
+- Added PFP for LoDS
+
+### Changed
+- Changed README LoDS image to a round one
+
+### Removed
+- Removed Nothing
+
+
 # [v0.0.5-2024.01.23-alpha] - 2024-01-23
 ## Notes: Still fixing stuff
 ### Added
@@ -24,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Nothing
 
 
-# [v0.0.4-2024.01.23-alpha] - 2024-01-23
+# [v0.0.4-2024.01.24-alpha] - 2024-01-24
 ## Notes: Still fixing stuff
 ### Added
 - Added Nothing
@@ -89,7 +102,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/LoDS
-[v0.0.5-2024.01.23-alpha]: https://www.joshuaschumacher.com/dev/work-in-progress 
+[v0.0.6-2024.01.23-alpha]: https://www.joshuaschumacher.com/dev/work-in-progress 
+[v0.0.5-2024.01.23-alpha]: https://github.com/JSSchumacher/LoDS/commit/b9eeb9a903c26a1a2826d9b3c54161b0d5e76218
 [v0.0.4-2024.01.23-alpha]: https://github.com/JSSchumacher/LoDS/commit/7c9a7d51ce607a01207b1e4d1df0cea32db25773
 [v0.0.3-2024.01.23-alpha]: https://github.com/JSSchumacher/LoDS/commit/ffac6249984ea4edcabee44d96eb092e39529e93
 [v0.0.2-2024.01.23-alpha]: https://github.com/JSSchumacher/LoDS/commit/97b7c71aa5e229d1e33cad28cdb534758e14f80f
