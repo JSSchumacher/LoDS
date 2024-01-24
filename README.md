@@ -1,16 +1,16 @@
 <p align="center" href="https://github.com/JSSchumacher/joshuaschumacher.com">
-  <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/JSS/JSS.png" />
+  <img width="300" src="https://github.com/JSSchumacher/LoDS/blob/main/LoDS%20Branding/LoDS%20Logo%203x1%20(Centered).png?raw=true" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/XJSS-DFiles">
-  <img align="center" src="https://img.shields.io/github/last-commit/JSSchumacher/XJSS-DFiles">
-  <img align="center" src="https://img.shields.io/github/license/JSSchumacher/XJSS-DFiles">
-  <img align="center" src="https://img.shields.io/github/issues-raw/JSSchumacher/XJSS-DFiles">
-  <img align="center" src="https://img.shields.io/github/forks/JSSchumacher/XJSS-DFiles?style=social">
+  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/LoDS">
+  <img align="center" src="https://img.shields.io/github/last-commit/JSSchumacher/LoDS">
+  <img align="center" src="https://img.shields.io/github/license/JSSchumacher/LoDS">
+  <img align="center" src="https://img.shields.io/github/issues-raw/JSSchumacher/LoDS">
+  <img align="center" src="https://img.shields.io/github/milestones/progress-percent/JSSchumacher/LoDS/1">
 </p>
 
-# XJSS-DFiles
+# LoDS
 ### Name
 LoDS - Locally online DS
 
@@ -22,7 +22,7 @@ When I was playing Mario Kart DS I wanted to play online with them but the onlin
 
 
 <p align="center" href="https:/https://github.com/JSSchumacher"> 
-  <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/LoDS/LoDS%20Branding/LoDS%20Logo%203x1%20(Centered).png" />
+  <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/Transparent/Word/XEON%20Outline.png" />
 </p>
 
 ##### Written By [Xeon](https://github.com/JSSchumacher) <br> Licensed under the [GNU Affero General Public License v3.0](https://github.com/JSSchumacher/XJSS-DFiles/blob/main/LICENSE) <br> Version 10.01.22.0002

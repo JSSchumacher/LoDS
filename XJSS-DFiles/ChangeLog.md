@@ -12,7 +12,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Planed Items
 
 
-# [v0.0.0-2024.01.23-alpha] - 2024-01-23
+# [v0.0.2-2024.01.23-alpha] - 2024-01-23
+## Notes: Fixing README and Changlog
+### Added
+- Added Nothing
+
+### Changed
+- Moved package.json
+- Updated README's badges links
+- Updated ChangeLog's incorrect version numbers 
+
+### Removed
+- Removed Nothing
+
+
+# [v0.0.1-2024.01.23-alpha] - 2024-01-23
 ## Notes: Adding basics
 ### Added
 - Added XJSS-DFiles
@@ -39,5 +53,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/LoDS
+[v0.0.2-2024.01.23-alpha]: https://www.joshuaschumacher.com/dev/work-in-progress 
 [v0.0.1-2024.01.23-alpha]: https://www.joshuaschumacher.com/dev/work-in-progress 
 [v0.0.0-2024.01.23-alpha]: https://www.joshuaschumacher.com/dev/work-in-progress 
