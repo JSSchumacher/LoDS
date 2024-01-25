@@ -20,6 +20,13 @@ Software to incept NDS local wifi (nifi) for local multiplayer broadcasted onlin
 ## What Inspired The Project
 When I was playing Mario Kart DS I wanted to play online with them but the online mode sucks and is difficult to setup (my friends aren't all super tech literate).
 
+## Credits
+- [Xeon](https://github.com/JSSchumacher) - Founder, Lead Developer *(Joined The LoDS Project on <ins>01/18/2024</ins>)*
+
+## Disclaimer
+
+DS, NDS, Nintendo are trademarks ofNintendo Co., Ltd. and solely mentioned for the sake of descriptivity.
+Mention of it does not imply any affiliation with or endorsement by Nintendo Co., Ltd.
 
 <p align="center" href="https:/https://github.com/JSSchumacher"> 
   <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/Transparent/Word/XEON%20Outline.png" />

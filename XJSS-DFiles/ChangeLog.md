@@ -11,6 +11,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Planed Items
 
+# [v0.0.7-2024.01.24-alpha] - 2024-01-24
+## Notes:
+### Added
+- Added Nothing
+
+### Changed
+- Updated README for Credits and Disclaimer
+- Updated ChangeLog because the link for versions v0.0.5< weren't working
+
+### Removed
+- Removed Nothing
+
 
 # [v0.0.6-2024.01.24-alpha] - 2024-01-24
 ## Notes: Just added more images
@@ -102,7 +114,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/LoDS
-[v0.0.6-2024.01.23-alpha]: https://www.joshuaschumacher.com/dev/work-in-progress 
+[v0.0.7-2024.01.24-alpha]: https://www.joshuaschumacher.com/dev/work-in-progress 
+[v0.0.6-2024.01.24-alpha]: https://github.com/JSSchumacher/LoDS/commit/3b16ec38305507a9dc35f81a25707ecd9f9a8fc1
 [v0.0.5-2024.01.23-alpha]: https://github.com/JSSchumacher/LoDS/commit/b9eeb9a903c26a1a2826d9b3c54161b0d5e76218
 [v0.0.4-2024.01.23-alpha]: https://github.com/JSSchumacher/LoDS/commit/7c9a7d51ce607a01207b1e4d1df0cea32db25773
 [v0.0.3-2024.01.23-alpha]: https://github.com/JSSchumacher/LoDS/commit/ffac6249984ea4edcabee44d96eb092e39529e93
