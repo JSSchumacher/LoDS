@@ -1,3 +1,7 @@
+# **<p align="center">I am open to help on this project</p>**
+<p align="center">To contribute, simply make a pull request and add your code (and process) and reupload in the Discussions.</p>
+<p align="center">And feel free to reach out in the Discussion (my notifications are one)</p>
+<hr/>
 <p align="center" href="https://github.com/JSSchumacher/joshuaschumacher.com">
   <img width="300" src="https://github.com/JSSchumacher/LoDS/blob/main/LoDS%20Branding/LoDS%20Logo%203x1%20(Centered)%20round%20200px.png?raw=true" />
 </p>
@@ -25,7 +29,7 @@ When I was playing Mario Kart DS I wanted to play online with them but the onlin
 
 ## Disclaimer
 
-DS, NDS, Nintendo are trademarks ofNintendo Co., Ltd. and solely mentioned for the sake of descriptivity.
+DS, NDS, Nintendo are trademarks of Nintendo Co., Ltd. and solely mentioned for the sake of descriptivity.
 Mention of it does not imply any affiliation with or endorsement by Nintendo Co., Ltd.
 
 <p align="center" href="https:/https://github.com/JSSchumacher"> 
